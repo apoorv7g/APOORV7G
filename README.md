@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @APOORV7G
 - 👀 I’m interested in Physics, Mathematics and Computer Science
 - 🌱 I’m currently learning JAVA+FRONTEND.
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me  via linkedIn
 
 <!---
