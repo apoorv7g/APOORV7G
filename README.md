@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @APOORV7G
 - 👀 I’m interested in Physics, Mathematics and Computer Science
-- 🌱 I’m currently learning JAVA+FRONTEND.
+- 🌱 I’m currently learning ~JAVA+FRONTEND~ lot of stuff.
 <!---- 💞️ I’m looking to collaborate on --->
 > Into the mountains we go, to lose our minds and find our soul
 - 📫 How to reach me [<sub>👨‍🎓</sub>](https://apoorv7g.github.io/portfolio/)
